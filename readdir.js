@@ -20,3 +20,6 @@ const find = (dir) => {
 };
 
 find(dir);
+//TODO write unit tests
+//TODO make log of outputs
+//TODO how to get path where you call this bash script from
